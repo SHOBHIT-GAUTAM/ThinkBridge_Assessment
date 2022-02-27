@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5yyzyICwKP0+uFO7MAjQMNq7aJjR38OTprez6IdnnAw=",
+  "Source": "ShopBridge_WebAPI",
+  "BasePath": "_content/ShopBridge_WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
